@@ -66,7 +66,7 @@ The pipeline consists of several stages, from data preparation to final analysis
 Convert a directory of PDB files into SSE files.
 ```bash
 # one example output can be found at examples/sse.txt
-python3 dataset_preparation/sse_extraction.py /path/to/pdb/folder 10 examples/sse.txt
+python3 dataset_preparation/sse_extraction.py /path/to/pdb_folder 10 examples/sse.txt
 ```
 
 ### Stage 2: Pre-filtration (for large database searches)
@@ -75,6 +75,7 @@ python3 dataset_preparation/sse_extraction.py /path/to/pdb/folder 10 examples/ss
 Generate space seeds and k-mer seeds for the pre-filtration stage.
 ```bash
 python3 filtration/database_construction.py /path/to/save/data /path/to/sse_files
+#python3 filtration/database_construction.py examples/kmer_database examples/sse.txt
 ```
 
 **3. Run the Filtration:**
