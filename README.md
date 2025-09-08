@@ -65,7 +65,8 @@ The pipeline consists of several stages, from data preparation to final analysis
 **1. Extract Secondary Structure Elements (SSEs):**
 Convert a directory of PDB files into SSE files.
 ```bash
-python3 dataset_preparation/sse_extraction.py /path/to/pdb/folder
+# one example output can be found at examples/sse.txt
+python3 dataset_preparation/sse_extraction.py /path/to/pdb/folder 10 examples/sse.txt
 ```
 
 ### Stage 2: Pre-filtration (for large database searches)
@@ -79,7 +80,7 @@ python3 filtration/database_construction.py /path/to/save/data /path/to/sse_file
 **3. Run the Filtration:**
 Search a query SSE against the database to find promising candidate pairs.
 ```bash
-python filtration/filtration.py /path/to/your_db /path/to/your_query.sse /path/to/output.txt
+python3 filtration/filtration.py examples/kmer_database/ examples/sse.txt examples/sp.txt --workers 20
 ```
 
 ### Stage 3: SSE Alignment & Analysis
@@ -90,11 +91,13 @@ There are two scripts for this, depending on your input format.
     ```bash
     # `path1` should be a directory containing `sse.txt` (all SSEs) and `sp.txt` (candidate pairs from filtration).
     python3 sse_align1.py /path/to/input/folder
+    # python3 sse_align_1.py examples
     ```
 * **`sse_align2.py`** (Directly compares two database):
     ```bash
     # `path2` should contain `ss1.txt`, `ssr1.txt` (query) and `ss2.txt`, `ssr2.txt` (target).
     python3 sse_align2.py /path/to/input/folder
+    # python3 sse_align_2.py examples
     ```
 
 ### Stage 4: Symmetry & Rearrangement Detection
@@ -116,6 +119,7 @@ python3 sse_align2.py /path/to/output_folder
 Use `scan_align.py` to exhaustively scan a protein against itself and validate findings with US-align.
 ```bash
 python scan_align.py /path/to/sse.txt /path/to/pdb_database /path/to/results_folder --us_align_path /path/to/US-align
+# python scan_align.py examples/sse_for_sym/sse.txt /path/to/pdb_database examples/symm_canner --us_align_path /path/to/US-align # the pdb_database is not provided here but you can easily get them from the rcsb database
 ```
 ---
 
