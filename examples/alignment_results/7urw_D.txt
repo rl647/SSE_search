@@ -1,0 +1,8 @@
+8uso_B		_0_m_2_f_0_G_1_b_4_A_1_h_7_J_3_K_5_L_2_J	_14_m_3_f_0_G_1_b_4_A_2_g_3_J_4_K_5_L_2_J	0-9	25-34	mfGbAhJKLJ	dHFHlEEfnAbBBAbclicibdccmmfGbAgJKLJ	0.990
+6fkg_A		_2_f_0_G_1_b_4_A_1_h_0_-_7_J_3_K	_0_i_2_J_8_e_11_D_2_k_4_c_0_-_4_L	1-7	0-6	mfGbAhJKLJ	iJeDkcLedjEFcGg	0.364
+3v89_A		_2_f_0_G_1_b_4_A_1_h_7_J_3_K_5_L_2_J	_27_b_2_E_3_b_7_D_4_c_6_I_4_J_0_-_2_J	1-9	8-15	mfGbAhJKLJ	DfcAAbDAbEbDcIJJbFCbcAFIBMjcBBOKFOATJMLHJdJOQLAGHBBIbFbI	0.475
+7sjy_B		_0_m_2_f_0_G_1_b_4_A_1_h_7_J_3_K_5_L_2_J	_7_l_3_e_0_-_3_b_0_-_2_k_0_-_1_K_3_K_6_J	0-9	19-25	mfGbAhJKLJ	gFJCbDJEbEHBbBDCibAlebkKKJI	0.547
+4wnb_A		_0_m_0_-_2_f_0_G_1_b_4_A_0_-_1_h_7_J_3_K_5_L_2_J	_0_k_6_A_6_j_0_-_4_b_4_c_9_f_14_i_4_J_9_L_2_K_2_K	0-9	0-10	mfGbAhJKLJ	kAjbcfiJLKK	0.481
+8avp_O		_0_G_1_b_4_A_1_h_7_J_3_K_5_L_2_J	_4_G_0_-_11_A_1_D_2_H_4_L_3_K_4_J	2-9	3-9	mfGbAhJKLJ	bCEGADHLKJ	0.577
+7ad6_A		_0_G_1_b_4_A_1_h_7_J_3_K_5_L_2_J	_5_H_0_-_3_A_11_B_3_J_3_J_3_J_3_J	2-9	12-18	mfGbAhJKLJ	dgeofCCCCEAIHABJJJJCFgejbmbAkkqmjjBBlklGGBDJIIEBhDEHAFEAeKKFEACDm	0.505
+1xkh_B		_0_G_1_b_0_-_4_A_0_-_0_-_1_h_7_J_3_K_5_L_2_J	_27_H_1_b_7_C_1_B_7_D_2_A_0_-_3_J_6_J_9_J_7_I	2-9	4-13	mfGbAhJKLJ	CFEBHbCBDAJJJIKNPCKAADACJKIKMMKIbIAbADDCBAA	0.440

@@ -228,6 +228,7 @@ def main():
                 continue
             access.append(s[0])
             s0 = mappings[s[0]]
+            
             for i, e in enumerate(s[1:]):
                 if e in finish:
                     continue
@@ -236,8 +237,9 @@ def main():
                     for e2 in se:
                         if e0 in sse and e2 in sse: 
                             pairs.append([e0,e2,sse[e0],sse[e2],sse_range[e0],sse_range[e2]])
+            finish.add(s[0])
             tm_output = args.ss_path / "tm.txt"
-            if len(pairs)>=1000000:
+            if len(pairs)>=5000000:
                 print('alignment start ',len(pairs))
                 compute_fitness(pairs,sim_matrix,cpu)
                 pairs = []
@@ -248,11 +250,19 @@ def main():
                 access = []
                 # break
             # break
-    # tm_output = args.ss_path / "tm.txt"
-    # alignment_results_path.mkdir(exist_ok=True)
+    print('alignment start ',len(pairs))
+    compute_fitness(pairs,sim_matrix,cpu)
+    pairs = []
+    tm_output = args.ss_path / "tm.txt"
+    alignment_results_path.mkdir(exist_ok=True)
+    run_predictions(model, alignment_results_path, tm_output, args.tm_threshold)
+    with open('/media/runfeng/86719ed4-89e5-44b4-ab1e-f5e7b808e4ed1/structure_searching/conformational_changes/finish.txt','a') as f:
+        f.write('\n'.join(access)+'\n')
+    access = []
+    # access = []
     # --- Step 3: Run predictions on alignment results ---
     # if ML:
-    #     run_predictions(model, alignment_results_path, tm_output, args.tm_threshold)
+    #     
 
     print("Processing complete.")
 

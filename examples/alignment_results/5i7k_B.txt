@@ -1,0 +1,2 @@
+3soy_A		_0_l_2_e_0_-_0_-_14_c_11_H_3_C_6_L_4_N_5_I	_0_n_3_c_10_C_2_C_1_b_12_G_4_D_2_K_5_L_3_I	0-7	0-9	lecHCLNIFerj	ncCCbGDKLI	0.585
+4rhz_A		_11_H_3_C_6_L_4_N_5_I_5_F_2_e	_5_I_5_H_6_M_3_Q_1_G_2_H_0_f	3-9	7-13	lecHCLNIFerj	BkEHAJPIHMQGHfBQbHB	0.580

@@ -1,0 +1,4 @@
+7wvw_R		_0_q_0_-_0_-_3_q_5_B_2_B_2_o_3_p_4_n_5_f_1_r_9_k	_11_r_8_u_1_e_3_q_0_D_5_D_8_m_7_n_7_s_1_e_5_p_4_j	0-9	1-12	qqBBopnfrkk	rrueqDDmnsepj	0.465
+4d2c_A		_0_q_0_-_3_q_5_B_2_B_0_-_2_o_3_p_4_n_5_f_1_r_9_k_5_k	_7_q_6_n_4_r_0_-_7_z_2_c_10_q_4_o_2_m_1_h_7_q_4_p_8_m	0-10	1-12	qqBBopnfrkk	tqnrzcqomhqpmop	0.426
+5voz_b		_0_q_3_q_5_B_2_B_2_o_0_-_3_p_4_n_5_f_1_r_9_k_5_k	_1_m_8_r_0_-_0_-_12_l_14_e_18_q_2_w_3_e_3_r_2_k_2_j	0-10	19-28	qqBBopnfrkk	FhEpexFlCFizcFfigcfmrleqwerkj	0.434
+4gbz_A		_0_q_3_q_5_B_2_B_2_o_3_p_4_n_5_f_1_r_0_-_9_k_5_k	_1_r_7_r_0_-_0_-_12_o_0_-_0_-_4_f_2_u_2_c_4_k_2_k	0-10	8-15	qqBBopnfrkk	jnbkmobdrrofuckksplhmbenc	0.400

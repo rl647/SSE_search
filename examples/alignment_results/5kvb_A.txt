@@ -1,0 +1,4 @@
+8in1_B		_0_p_2_d_2_H_3_C_0_-_0_g_0_-_5_b	_14_o_1_c_2_F_2_C_4_j_5_f_5_j_1_b	0-5	17-24	pdHCgbMKbLL	DcdbbjDcblFdblEaaocFCjfjbfCECkEnFeBBjdDcejDcblFdblEaapcFCkckfDEbBkDnEeBBj	0.563
+1zx2_A		_0_p_2_d_2_H_3_C_0_g_5_b_0_M_2_K_1_b_1_L_2_L	_0_m_1_f_0_I_3_D_1_i_1_d_0_-_1_K_1_b_1_J_5_J	0-10	0-9	pdHCgbMKbLL	mfIDidKbJJJ	0.536
+2pw0_B		_2_H_3_C_0_g_5_b_0_M_2_K	_7_G_6_A_8_i_5_b_4_H_4_I	2-7	6-11	pdHCgbMKbLL	IFbbjFGAibHIAEEEcbDAAbDjdEJJJ	0.519
+7e4h_A		_2_H_3_C_0_-_0_g_5_b_0_M_2_K_1_b_1_L_0_-_2_L	_9_I_2_K_2_K_0_-_2_b_1_K_13_M_12_c_3_L_9_J_3_K	2-10	7-16	pdHCgbMKbLL	GjmCGGIIKKbKMcLJKKbbJKfHHF	0.473

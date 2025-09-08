@@ -1,0 +1,3 @@
+7xtc_R		_0_q_1_b_2_n_1_d_11_u_4_c_0_-_0_-_0_-_2_p_11_v_2_t_10_j	_0_q_1_b_2_n_1_b_13_u_4_c_2_m_2_c_18_g_5_p_8_q_8_o_4_k	0-9	0-12	qbnducpvtjhc	qbnbucmcgpqok	0.526
+7vqx_R		_2_n_0_-_1_d_0_-_0_-_11_u_4_c_2_p_11_v_0_-_0_-_2_t_10_j_1_h_4_c	_0_l_27_D_2_e_5_D_12_d_6_u_1_b_2_r_12_v_8_d_5_l_12_u_3_k_1_g_7_b	2-11	0-14	qbnducpvtjhc	lDeDdubrvdlukgbek	0.448
+7f74_A		_1_b_2_n_1_d_11_u_4_c_2_p_11_v_2_t_10_j_1_h	_0_b_0_A_1_b_0_-_6_c_2_s_13_t_8_t_6_j_7_j	1-10	17-25	qbnducpvtjhc	kfibbknjKJbGEbCbJbAbcsttjj	0.538

@@ -1,0 +1,3 @@
+8hpk_A		_0_f_20_t_2_z_7_n_12_v_2_u_3_j_4_h_9_n_5_b_0_-_1_r_0_-_2_k	_1_j_3_s_0_-_2_n_0_-_4_s_4_k_1_k_2_o_16_e_1_t_3_r_2_p_3_l	0-11	1-12	ftznvujhnbrks	njsnskkoetrpljmgmb	0.466
+7jgh_A		_0_f_20_t_2_z_7_n_12_v_2_u_3_j_4_h_9_n_5_b_1_r_0_-_2_k_5_s	_21_f_0_-_0_-_41_p_0_-_3_u_5_k_16_i_7_o_36_c_8_o_24_m_7_k_2_p	0-12	20-30	ftznvujhnbrks	ollkctukcpnmnqjojgBBfpukiocomkpbqrfccdbfppkkmqrdcr	0.432
+8sym_A		_7_n_12_v_2_u_3_j_4_h_9_n_5_b_1_r_2_k_5_s	_4_m_3_C_2_C_1_k_13_j_8_l_14_c_4_r_2_m_5_l	3-12	8-17	ftznvujhnbrks	gkjlkonlmCCkjlcrml	0.462

@@ -1,0 +1,13 @@
+6ygd_B		_0_l_4_l_6_o_7_q_0_-_3_i_5_b_3_s_11_d_2_p_18_n	_0_k_6_l_4_p_3_p_5_x_5_k_0_-_5_u_16_g_1_b_10_j	0-9	16-25	lloqibsdpn	giecnjnmpkdmijAAklppxkugbjuuEE	0.410
+7jgh_A		_0_l_4_l_6_o_0_-_7_q_0_-_3_i_5_b_3_s_11_d_0_-_0_-_2_p_18_n	_24_m_7_k_2_p_9_b_12_q_10_r_6_f_8_c_6_c_6_d_44_b_5_f_7_p_7_p	0-9	28-41	lloqibsdpn	ollkctukcpnmnqjojgBBfpukiocomkpbqrfccdbfppkkmqrdcr	0.443
+8itq_A		_0_l_0_-_4_l_6_o_7_q_3_i_0_-_5_b_0_-_0_-_3_s_11_d_2_p	_5_o_2_e_1_l_5_m_4_q_7_j_2_j_4_e_1_r_7_f_5_r_1_c_1_p	0-8	5-17	lloqibsdpn	DlbhgoelmqjjerfrcpcDBc	0.479
+3wfe_B		_0_l_4_l_6_o_7_q_3_i_0_-_0_-_5_b_0_-_0_-_0_-_0_-_3_s_11_d_2_p	_5_o_5_k_5_m_3_q_8_i_3_l_8_k_7_b_3_f_3_i_6_i_1_b_8_t_14_f_1_o	0-8	5-19	lloqibsdpn	stpfpokmqilkbfiibtfo	0.357
+4iul_A		_0_l_4_l_6_o_7_q_3_i_5_b_3_s_11_d_2_p_18_n	_4_m_1_m_15_o_6_p_6_j_7_b_1_m_0_-_2_l_9_l	0-9	2-10	lloqibsdpn	njmmopjbmll	0.586
+8ftk_A		_0_l_0_-_0_-_4_l_6_o_7_q_0_-_3_i_5_b_3_s_0_-_11_d_2_p_18_n	_9_k_3_d_12_s_11_j_7_m_13_q_3_f_8_h_3_l_4_r_11_l_6_c_4_s_3_m	0-9	27-40	lloqibsdpn	kncckmtndkgjbiclbgmfhhBBjjpkdsjmqfhlrlcsmemfidjBBjchblGfEbDBGGlgiEblCgBejqzCccCbcbDfAeclichke	0.389
+3iso_B		_3_i_5_b_3_s_11_d_2_p_18_n	_1_j_0_-_7_q_0_-_4_p_12_l	4-9	6-9	lloqibsdpn	DiDfCCjqpldjg	0.495
+4b2t_b		_0_l_4_l_6_o_7_q_0_-_3_i_5_b_3_s_11_d_0_-_0_-_2_p_0_-_18_n	_5_l_4_n_4_o_7_j_3_c_1_k_6_b_2_D_3_b_1_B_5_E_2_o_5_B_3_k	0-9	4-17	lloqibsdpn	oCCflnojckbDbBEoBkjgifCCcBn	0.371
+6h2x_A		_0_l_4_l_6_o_7_q_3_i_5_b_3_s_11_d_2_p_18_n	_10_m_9_m_5_o_0_-_2_c_3_b_6_r_6_c_3_k_2_l	0-9	1-9	lloqibsdpn	zmmocbrcklhz	0.562
+3gtu_D		_4_l_6_o_7_q_3_i_5_b_3_s_0_-_11_d	_1_j_7_q_3_p_12_l_1_c_3_j_2_f_2_d	1-7	6-13	lloqibsdpn	EjEfCCjqplcjfd	0.414
+7mrw_A		_0_l_0_-_4_l_6_o_7_q_3_i_5_b_3_s_0_-_11_d_2_p_18_n	_3_k_6_c_8_b_4_m_3_q_6_j_5_b_14_q_4_n_2_b_14_n_6_n	0-9	53-64	lloqibsdpn	inlhnkkcbkekcejcbojbiibheljfckjfcgdAglfjnelDCCEmmctgbkcbmqjbqnbnngckc	0.538
+6lid_D		_0_l_4_l_6_o_0_-_7_q_3_i_5_b_3_s_11_d_0_-_0_-_0_-_0_-_0_-_2_p_18_n	_2_i_5_n_7_m_6_c_1_q_16_j_6_b_13_r_2_d_4_e_9_m_4_f_11_A_6_k_9_o_16_n	0-9	5-20	lloqibsdpn	jcesfinmcqjbrdemfAkoncklA	0.435
+5o0t_A		_4_l_6_o_7_q_0_-_3_i_5_b_3_s_11_d_2_p_18_n	_0_i_1_r_4_n_1_b_1_g_2_c_3_t_5_f_0_-_1_n	1-9	0-8	lloqibsdpn	irnbgctfncgjn	0.444

@@ -30,7 +30,7 @@ def create_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument("ss_path", type=Path, help="Path to the directory ")
     parser.add_argument("--align_threshold", type=float, default=0.35, help="Minimum aligned score to be written to the output file.")
     parser.add_argument("--tm_threshold", type=float, default=0.5, help="Minimum predicted TM-score to be written to the output file.")
-    parser.add_argument("--ML", type=bool, default=1, help="")
+    # parser.add_argument("--ML", type=bool, default=1, help="")
 
     return parser
 
@@ -91,7 +91,7 @@ def run_predictions(
 
         with protein_file.open('r') as f:
             for line in f:
-                parts = line.strip().split('\t')
+                parts = list(filter(None,(line.strip().split('\t'))))
 
                 # Avoid duplicate pairs (e.g., (A,B) and (B,A))
                 pair = tuple(sorted((protein_name, parts[0])))
@@ -175,8 +175,8 @@ def main():
 
     print("Running initial local alignment...")
     alignment_results_path = args.ss_path / "alignment_results"
-    sse_path = args.ss_path / "sse"/"sse.txt"
-    ML = args.ML
+    sse_path = args.ss_path/"sse.txt"
+    # ML = args.ML
     sse = {}
     sse_range = {}
     with open(sse_path) as f:
@@ -188,14 +188,17 @@ def main():
     with open(args.ss_path / "sp.txt") as f:
         for line in f:
             s=line.strip().split('\t')
-            pairs.append([s[0],s[1],sse[s[0]],sse[s[1]],sse_range[s[0]],sse_range[s[1]]])
+            for i, e in enumerate(s[1:]):
+                pairs.append([s[0],e,sse[s[0]],sse[e],sse_range[s[0]],sse_range[e]])
+
+            # pairs.append([s[0],s[1],sse[s[0]],sse[s[1]],sse_range[s[0]],sse_range[s[1]]])
     cpu  = mp.cpu_count()
     compute_fitness(pairs,sim_matrix,cpu)
     tm_output = args.ss_path / "tm.txt"
     alignment_results_path.mkdir(exist_ok=True)
     # --- Step 3: Run predictions on alignment results ---
-    if ML:
-        run_predictions(model, alignment_results_path, tm_output, args.tm_threshold)
+    # if ML:
+    run_predictions(model, alignment_results_path, tm_output, args.tm_threshold)
 
     print("Processing complete.")
 

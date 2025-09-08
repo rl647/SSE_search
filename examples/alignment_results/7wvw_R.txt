@@ -1,0 +1,4 @@
+7l0q_C		_0_r_11_r_8_u_1_e_3_q_0_D_5_D_8_m_7_n_7_s_1_e_5_p_4_j	_0_s_7_q_11_t_2_e_3_p_2_D_10_D_3_j_5_o_11_u_0_-_7_s_3_j	0-12	0-11	rrueqDDmnsepj	sqtepDDjousj	0.594
+7sk9_A		_0_r_11_r_8_u_1_e_3_q_0_D_5_D_8_m_7_n_7_s_1_e_5_p_4_j	_0_u_5_q_8_u_1_b_2_r_1_B_2_B_6_k_5_n_0_-_2_d_5_q_7_m	0-12	0-11	rrueqDDmnsepj	uqubrBBkndqmcdi	0.542
+6xl3_B		_11_r_8_u_1_e_3_q_0_D_5_D_8_m_7_n_7_s_1_e_5_p_4_j	_0_q_0_-_0_-_3_q_5_B_2_B_2_o_3_p_4_n_5_f_1_r_9_k	1-12	0-9	rrueqDDmnsepj	qqBBopnfrkk	0.465
+8e9g_L		_1_e_3_q_0_-_0_D_5_D_0_-_8_m_7_n_7_s_1_e_5_p_0_-_4_j	_1_c_3_p_3_c_1_H_6_F_1_p_6_n_3_n_6_t_4_f_5_n_7_d_4_h	3-12	1-13	rrueqDDmnsepj	lcpcHFpnntfndhhdpotcllstnfgjohj	0.472

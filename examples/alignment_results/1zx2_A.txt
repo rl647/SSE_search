@@ -1,0 +1,9 @@
+8c5v_B		_0_m_1_f_0_I_3_D_1_i_1_d_1_K_1_b_0_-_0_-_1_J_5_J_6_J	_0_m_8_e_8_G_2_G_7_h_10_f_0_-_21_j_3_B_6_A_1_E_4_H_2_E	0-10	7-18	mfIDidKbJJJ	rqBcjBBmeGGhfjBAEHEBCEFdEEHbEDj	0.443
+5kvb_A		_0_m_1_f_0_I_3_D_1_i_1_d_0_-_1_K_1_b_1_J_5_J	_0_p_2_d_2_H_3_C_0_g_5_b_0_M_2_K_1_b_1_L_2_L	0-9	0-10	mfIDidKbJJJ	pdHCgbMKbLL	0.536
+4j9a_E		_0_m_1_f_0_I_3_D_1_i_1_d_1_K_0_-_1_b_1_J_5_J_6_J	_0_k_3_e_1_G_10_B_1_h_1_c_1_C_3_A_0_-_2_J_2_J_2_F	0-10	0-10	mfIDidKbJJJ	keGBhcCAJJF	0.549
+7cg3_B		_0_m_1_f_0_I_3_D_1_i_1_d_1_K_1_b	_6_l_0_-_0_-_9_D_6_g_7_b_0_A_3_b	0-7	24-29	mfIDidKbJJJ	ejBjbCclEccBfeBnAkmAibcelDgbAbegDbjDbjcoCjoFC	0.375
+5znk_A		_0_m_0_-_0_-_1_f_0_-_0_I_3_D_1_i_1_d_1_K_1_b_1_J_0_-_5_J_6_J	_1_n_3_A_5_B_0_f_1_c_6_B_5_C_4_g_6_b_2_I_8_b_3_J_2_o_4_D_10_F	0-10	4-18	mfIDidKbJJJ	bgDCnABfcBCgbIbJoDFDBCgbHGgBfDdCEBLeBBGjAADkCjDbEDk	0.393
+4m08_A		_0_m_1_f_0_I_3_D_1_i_1_d_1_K_1_b_0_-_1_J_0_-_0_-_5_J_6_J	_4_m_0_-_5_E_9_F_2_j_5_b_0_I_6_b_2_e_11_H_1_d_2_m_3_F_8_F	0-10	3-15	mfIDidKbJJJ	cHbmEFjbIbeHdmFFjcCDe	0.438
+6uuf_B		_1_f_0_I_0_-_3_D_1_i_1_d_1_K_1_b_1_J_5_J	_0_b_0_G_10_A_2_B_6_k_3_b_1_J_2_b_2_H_11_D	1-9	3-12	mfIDidKbJJJ	CBIbGABkbJbHDcl	0.497
+7skt_A		_1_f_0_I_3_D_1_i_0_-_1_d_0_-_1_K_1_b_1_J_5_J_0_-_6_J	_4_i_2_F_3_D_9_f_3_C_0_c_3_b_6_K_8_c_6_J_2_J_6_j_1_E	1-10	3-15	mfIDidKbJJJ	DJKiFDfCcbKcJJjEEeDcfJdBA	0.552
+3osr_A		_0_m_1_f_0_I_0_-_3_D_0_-_0_-_0_-_1_i_0_-_1_d_1_K_1_b_1_J_5_J_0_-_6_J	_3_l_9_h_3_E_1_i_3_C_3_A_7_I_5_e_8_i_4_A_2_g_4_E_0_b_1_J_4_J_11_I_8_J	0-10	17-33	mfIDidKbJJJ	DlDiDhceAAEDhBiEGlhEiCAIeiAgEbJJIJdJJbGcbecHJJjAmk	0.440

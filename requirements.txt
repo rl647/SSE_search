@@ -1,0 +1,8 @@
+Biopython
+Numpy
+Scipy
+Scikit-learn
+pybind11
+pytorch
+rockdb
+multiprocssing

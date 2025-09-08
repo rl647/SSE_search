@@ -1,0 +1,17 @@
+6tgx_A		_0_h_3_e_2_E_2_F_0_-_2_b_0_-_0_-_8_m_7_J_0_-_7_J_3_J	_3_k_6_h_3_G_10_J_0_b_3_b_7_I_1_b_4_k_4_H_3_h_3_J_2_J	0-8	1-13	heEFbmJJJK	CkhGJbbIbkHhJJ	0.440
+6gz8_A		_0_h_3_e_2_E_2_F_2_b_8_m_7_J	_5_f_6_d_14_D_4_E_1_c_3_l_6_E	0-6	2-8	heEFbmJJJK	GGfdDEclEA	0.699
+7m3k_A		_0_h_3_e_2_E_2_F_2_b_8_m_7_J	_1_i_16_d_23_E_2_F_0_b_2_f_8_I	0-6	21-27	heEFbmJJJK	cjcElEmEjDBBifjnckjgfidEFbfIfbEcBDbcDCkfbb	0.719
+7et0_A		_0_h_3_e_2_E_2_F_0_-_2_b_8_m_0_-_0_-_7_J_0_-_7_J_3_J	_1_k_1_f_6_G_8_F_8_d_2_c_1_m_9_j_3_A_2_I_13_c_0_G_2_I	0-8	22-34	heEFbmJJJK	ebifjbdGGGjcGDAeqkCDEbkfGFdcmjAIcGIAbIcEdADkojEHKlGbD	0.442
+6mdr_a		_0_h_3_e_2_E_2_F_2_b_8_m_7_J_0_-_7_J_3_J_4_K	_8_g_18_c_5_H_4_J_0_-_0_-_2_J_17_I_4_J_4_J_11_I	0-9	4-12	heEFbmJJJK	cJJGgcHJJIJJIJ	0.562
+4oua_A		_0_h_3_e_2_E_2_F_2_b_8_m	_6_i_15_c_3_D_5_D_12_b_23_p	0-5	5-10	heEFbmJJJK	AclepicDDbpdkbnAAbcAel	0.675
+7kz9_B		_0_h_3_e_2_E_2_F_2_b_8_m_7_J	_4_f_1_e_7_F_3_E_6_b_0_-_4_E	0-6	13-18	heEFbmJJJK	EbfBBEEkcGEdbfeFEbEhAfEEchhAiFlFfEgcjmDE	0.601
+3g2o_A		_0_h_3_e_2_E_2_F_2_b_8_m_7_J_0_-_0_-_0_-_7_J_3_J_0_-_4_K	_2_j_3_d_1_D_11_E_1_c_4_k_0_J_2_c_4_A_5_A_4_G_9_J_1_i_3_G	0-9	6-19	heEFbmJJJK	gDiCdDjdDEckJcAAGJiGF	0.483
+6p66_D		_0_h_3_e_2_E_2_F_2_b_8_m_0_-_7_J_7_J_0_-_3_J	_4_h_2_d_4_G_4_F_0_e_11_l_3_A_14_C_4_E_5_k_4_E	0-8	17-27	heEFbmJJJK	bCClhmCikeDmGiEFbhdGFelACEkEChckhb	0.466
+3nap_B		_0_h_3_e_2_E_2_F_2_b_8_m_7_J_7_J_0_-_0_-_0_-_0_-_0_-_3_J_4_K	_16_c_10_d_3_H_7_F_1_b_2_f_4_J_6_I_6_h_2_c_3_D_5_E_8_A_8_J_5_L	0-9	4-18	heEFbmJJJK	CcDDcdHFbfJIhcDEAJL	0.416
+6ank_A		_3_e_2_E_2_F_2_b_8_m_7_J_7_J_0_-_3_J_0_-_4_K	_0_b_6_E_6_H_0_b_0_-_1_I_12_H_2_F_10_H_2_c_2_H	1-9	8-17	heEFbmJJJK	HIGFHcGHbEHbIHFHcHGjE	0.472
+3bbj_B		_3_e_2_E_2_F_2_b_8_m_7_J_7_J_3_J_4_K	_0_d_3_C_2_E_1_b_11_g_5_H_6_J_5_H_2_J	1-9	0-8	heEFbmJJJK	dCEbgHJHJbAbDfGgcGEAHI	0.643
+7lhg_C		_3_e_2_E_2_F_2_b_8_m_7_J_7_J_3_J_4_K	_3_d_29_D_4_D_2_b_0_-_19_J_11_J_2_K_8_L	1-9	6-13	heEFbmJJJK	dACACAdDDbJJKLIIADAEEHIIKKKHgBFIJIJGEAJAGGJBDACABADBCBBDCD	0.698
+6zjm_E		_2_E_2_F_0_-_2_b_8_m_7_J_7_J_3_J_4_K	_0_G_9_F_5_d_13_b_0_-_2_J_14_J_18_H_4_I	2-9	0-7	heEFbmJJJK	GFdbJJHIdEHBDKbhGABjbGFCBBBJFJAAGDDlh	0.659
+5xqg_C		_0_h_0_-_3_e_0_-_2_E_0_-_0_-_0_-_2_F_2_b_8_m_7_J_7_J_0_-_3_J	_12_g_7_b_2_c_2_b_5_E_5_E_7_E_5_E_3_F_2_c_0_-_2_E_5_H_20_j_14_J	0-8	20-33	heEFbmJJJK	GEBFGFCDEEKcLLJHJbEDgbcbEEEEFcEHjJjBfpAAbjkAAchmClmbCAljgikBbBq	0.364
+3it8_D		_2_E_2_F_2_b_8_m_7_J_7_J_3_J	_2_H_4_F_5_b_5_o_7_J_2_I_2_F	2-8	2-8	heEFbmJJJK	HGHFboJIFCbcjDIEcAHEB	0.733
+7a0h_A		_2_E_2_F_2_b_8_m_0_-_7_J_7_J_3_J_4_K	_4_E_4_F_0_-_8_n_3_b_16_K_2_K_3_K_5_L	2-9	8-15	heEFbmJJJK	llmDDbACEFnbKKKLLpBbC	0.581

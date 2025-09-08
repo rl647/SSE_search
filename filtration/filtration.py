@@ -8,7 +8,7 @@ from pathlib import Path
 from typing import Dict, List, Tuple
 
 import rocksdb
-
+import os
 
 def create_arg_parser() -> argparse.ArgumentParser:
     """Creates and configures the argument parser for the script."""
@@ -48,9 +48,11 @@ def load_queries(filepath: Path, min_len: int) -> Dict[str, str]:
     try:
         with filepath.open('r') as f:
             for line in f:
+                
                 parts = line.strip().split('\t')
-                if len(parts) == 2 and len(parts[1]) >= min_len:
-                    queries[parts[0]] = parts[1]
+                if len(parts) == 5 and len(parts[3]) >= min_len:
+                    # print(parts)
+                    queries[parts[0]] = parts[3]
     except FileNotFoundError:
         print(f"Error: Query file not found at {filepath}")
         return {}
@@ -77,9 +79,12 @@ class CandidateFinder:
         """Initializes read-only RocksDB connections."""
         if self.kmer_db is None:
             print(f"Worker {os.getpid()}: Connecting to databases...")
-            opts = rocksdb.Options(create_if_missing=False)
-            self.kmer_db = rocksdb.DB(self.kmer_db_path, opts, read_only=True)
-            self.space_db = rocksdb.DB(self.space_db_path, opts, read_only=True)
+            opts1 = rocksdb.Options(create_if_missing=False)
+            opts2 = rocksdb.Options(create_if_missing=False)
+
+            self.kmer_db = rocksdb.DB(self.kmer_db_path, opts1, read_only=True)
+            
+            self.space_db = rocksdb.DB(self.space_db_path, opts2, read_only=True)
 
     def _fetch_list(self, db: rocksdb.DB, key: str) -> list:
         """Fetches and unpickles a list from the database."""
@@ -125,14 +130,24 @@ class CandidateFinder:
 
         return key, final_candidates
 
+worker_finder = None
 
-def worker_find_candidates(item: Tuple[str, str], db_path: Path, k: int, min_diag: int, min_total: int) -> Tuple[str, List[str]]:
+def init_worker(db_path_str: str):
     """
-    A top-level function wrapper for the pool, which instantiates
-    the finder class and calls its method.
+    Initializer function for each worker process.
+    Creates a single, reusable CandidateFinder instance.
     """
-    finder = CandidateFinder(db_path)
-    return finder.find(item, k, min_diag, min_total)
+    global worker_finder
+    print(f"Worker {os.getpid()}: Initializing and connecting to DBs...")
+    # Create the instance and connect to the database once.
+    worker_finder = CandidateFinder(Path(db_path_str))
+    worker_finder._connect() # Connect once at the start.
+def worker_find_candidates(item: Tuple[str, str], k: int, min_diag: int, min_total: int) -> Tuple[str, List[str]]:
+    """
+    A top-level function wrapper that uses the pre-initialized global finder.
+    """
+    # The finder is already created and connected, so db_path is not needed here.
+    return worker_finder.find(item, k, min_diag, min_total)
 
 
 def main():
@@ -144,10 +159,9 @@ def main():
     if not queries:
         return
 
-    # Use functools.partial to create a worker function with fixed arguments
+    # Note: The worker function in partial() no longer includes db_path
     worker_func = partial(
         worker_find_candidates,
-        db_path=args.db_path,
         k=args.kmer_size,
         min_diag=args.min_diag_hits,
         min_total=args.min_total_score
@@ -156,14 +170,18 @@ def main():
     print(f"Starting search with {args.workers} worker processes...")
     args.output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    with mp.Pool(processes=args.workers) as pool, args.output_path.open('w') as fout:
-        # Use imap_unordered for efficiency, as results can be written as they complete
+    # Create the pool with the initializer
+    with mp.Pool(
+        processes=args.workers,
+        initializer=init_worker,
+        initargs=(str(args.db_path),) # Pass DB path to the initializer
+    ) as pool, args.output_path.open('w') as fout:
+        # Use imap_unordered for efficiency
         for key, candidates in pool.imap_unordered(worker_func, queries.items(), chunksize=100):
             if candidates:
                 fout.write(f"{key}\t" + "\t".join(candidates) + "\n")
 
     print(f"Processing complete. Results saved to {args.output_path}")
-
 
 if __name__ == '__main__':
     main()

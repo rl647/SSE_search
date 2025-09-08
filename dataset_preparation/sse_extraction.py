@@ -26,6 +26,7 @@ import string
 import sys
 from multiprocessing import Pool
 from functools import partial
+import multiprocessing as mp
 #%%
 
 warnings.filterwarnings("ignore", category=UserWarning, module="Bio.PDB.PDBParser")
@@ -164,10 +165,11 @@ def process_protein_file(file_path, p1_param, p2_param, score_map):
 if __name__ == '__main__':
     protein_path = sys.argv[1]
     # protein_path = '/home/runfeng/test'
-    num_processes = int(sys.argv[2])
+    # num_processes = int(sys.argv[2])
+    num_processes = mp.cpu_count()
     # num_processes = 10
     output = sys.argv[3]
-    output = '/home/runfeng/sse.txt'
+    # output = '/home/runfeng/sse.txt'
     files_to_process = [
         os.path.join(protein_path, f)
         for f in os.listdir(protein_path)

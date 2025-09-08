@@ -1,0 +1,16 @@
+5d9w_A		_0_B_4_A_2_i_5_b_2_f_11_l	_7_B_5_B_1_j_9_b_6_i_7_n	0-5	5-10	BAibflLKJK	GDjEeBBjbinojek	0.762
+7sjy_B		_0_B_0_-_4_A_2_i_5_b_0_-_0_-_2_f_0_-_11_l_3_L_8_K_3_J_5_K	_3_B_5_D_10_C_1_i_4_b_4_A_7_l_3_e_3_b_2_k_1_K_3_K_6_J_2_I	0-9	13-26	BAibflLKJK	gFJCbDJEbEHBbBDCibAlebkKKJI	0.537
+1wkb_A		_0_B_4_A_2_i_5_b_2_f_0_-_0_-_11_l_3_L_0_-_8_K_3_J	_2_B_4_A_4_i_3_d_9_g_1_m_6_b_8_l_3_J_4_A_13_I_8_E	0-8	5-16	BAibflLKJK	kbbEnBAidgmblJAIEeCGGfFBEBfbkAbAkFJjBkAAAElbhjkDbjbDBgjBoodjmi	0.463
+8h95_A		_0_B_4_A_2_i_5_b_2_f_0_-_11_l	_5_B_6_B_3_k_6_c_7_h_3_j_7_k	0-5	23-29	BAibflLKJK	jhEkDAgjDbAhDbDhiellnegBBkchjkkfCjDkBiBjAjBjBjBjBjBiBjBiBkBhBjBkBb	0.559
+3fms_A		_0_B_4_A_2_i_5_b_2_f_11_l	_2_C_3_C_4_j_2_e_1_d_2_l	0-5	3-8	BAibflLKJK	jgkCCjedlmhhlq	0.641
+6p5a_A		_0_B_4_A_2_i_5_b_2_f_0_-_11_l	_2_B_2_B_2_i_12_c_9_f_2_j_7_m	0-5	18-24	BAibflLKJK	jfjigAeIBBHGkFhBEkBBicfjmkpcjkb	0.675
+6uxc_B		_0_B_4_A_2_i_0_-_5_b_2_f_11_l_3_L_8_K_3_J_5_K	_0_D_3_A_12_l_3_B_6_e_9_f_0_-_0_-_4_J_7_J_6_K	0-9	0-8	BAibflLKJK	DAlBefJJKbbn	0.493
+8g9s_K		_0_B_4_A_0_-_2_i_5_b_2_f_0_-_11_l	_4_B_4_A_6_A_0_l_15_e_17_g_5_k_6_l	0-5	12-19	BAibflLKJK	kBBAAlAgbfcABAAlegklnjmlmh	0.510
+6w6i_A		_0_B_0_-_4_A_2_i_5_b_2_f_11_l	_3_C_5_m_3_A_1_h_10_c_1_l_9_l	0-5	16-22	BAibflLKJK	cAdjDkbBckDcdDffCmAhcllsAhcdlDjCebDbbcBBCicAmAiffA	0.525
+3g7q_A		_0_B_4_A_2_i_5_b_2_f_11_l	_6_B_9_A_7_i_6_c_8_d_7_o	0-5	22-27	BAibflLKJK	gflbCjDdBDbDbBfCBbCgcmBAicdo	0.676
+3q0z_A		_0_B_4_A_2_i_0_-_5_b_2_f_11_l	_0_B_9_A_2_j_9_k_9_e_14_d_3_l	0-5	0-6	BAibflLKJK	BAjkedlDACqbkEcjiCDnGFmbFEjgajDDjckmdbdABA	0.614
+8gcr_R		_0_B_4_A_2_i_5_b_2_f_11_l	_7_C_4_C_7_l_10_e_7_f_1_j	0-5	25-30	BAibflLKJK	kiejkfgbbijobngcchbrEkbEkCClefjijcbc	0.535
+7u91_A		_0_B_4_A_2_i_5_b_2_f_11_l	_11_C_2_C_0_k_7_c_4_f_9_n	0-5	4-9	BAibflLKJK	jBkkCCkcfnfjbCCkbbgBgpj	0.652
+5mss_A		_2_i_5_b_2_f_11_l_3_L_8_K_3_J_5_K	_0_j_1_c_5_f_6_j_0_-_0_-_4_J_6_K	2-9	0-5	BAibflLKJK	jcfjJKlDjDjDjDlChbFEcdCjCgCmhDjFDAFbGeJFBBhFEfmbBoejldk	0.554
+5mst_A		_2_i_5_b_2_f_11_l_3_L_8_K_3_J_5_K	_0_j_1_d_4_f_6_j_0_-_0_-_4_J_6_K	2-9	0-5	BAibflLKJK	jdfjJKmDkDjDjDlChbFEfcCjCgCmhDjFDAFbGeJFbBBgFEfmbCn	0.544
+8g8v_A		_2_f_11_l_0_-_3_L_8_K_3_J	_8_i_6_k_5_K_6_L_2_K_13_J	4-8	2-7	BAibflLKJK	LKikKLKJjkkIG	0.688

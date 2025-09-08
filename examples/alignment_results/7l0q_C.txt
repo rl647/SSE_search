@@ -1,0 +1,3 @@
+7sk9_A		_0_s_7_q_11_t_2_e_3_p_2_D_10_D_3_j_5_o_0_-_11_u_7_s_0_-_0_-_3_j	_0_u_5_q_8_u_1_b_2_r_1_B_2_B_6_k_5_n_2_d_5_q_7_m_1_c_1_d_4_i	0-11	0-14	sqtepDDjousj	uqubrBBkndqmcdi	0.431
+7wvw_R		_0_s_7_q_11_t_2_e_3_p_2_D_10_D_3_j_5_o_11_u_0_-_7_s_3_j	_0_r_11_r_8_u_1_e_3_q_0_D_5_D_8_m_7_n_7_s_1_e_5_p_4_j	0-11	0-12	sqtepDDjousj	rrueqDDmnsepj	0.594
+6k7x_N		_2_e_3_p_2_D_10_D_3_j_5_o_11_u_7_s_3_j	_12_c_0_-_4_D_2_D_11_m_2_n_4_v_7_q_5_n	3-11	5-12	sqtepDDjousj	DFDjCcDDmnvqno	0.495

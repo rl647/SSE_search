@@ -1,0 +1,3 @@
+3wfe_B		_0_t_7_q_6_n_4_r_7_z_2_c_10_q_4_o_0_-_2_m_1_h_7_q_4_p_8_m_4_o	_12_t_6_p_0_-_0_-_0_-_2_f_17_p_5_o_5_k_5_m_0_-_3_q_8_i_3_l_8_k	0-13	1-11	tqnrzcqomhqpmop	stpfpokmqilkbfiibtfo	0.410
+7udl_A		_7_q_6_n_4_r_7_z_2_c_10_q_4_o_2_m_1_h_7_q_4_p_8_m_4_o_5_p	_0_n_3_n_2_o_0_-_0_-_3_n_4_n_3_n_3_o_3_n_2_o_3_m_5_o_3_n	1-14	0-11	tqnrzcqomhqpmop	nnonnnonomon	0.451
+7w1m_D		_6_n_4_r_7_z_2_c_10_q_4_o_2_m_1_h_7_q_4_p_8_m_4_o_5_p	_14_n_16_r_4_f_2_c_0_-_3_e_2_m_3_k_7_q_8_n_9_k_5_n_9_o	2-14	23-34	tqnrzcqomhqpmop	ekldinbkwtbmilhgmikkecenrfcemkqnknomcknfmpllhhdg	0.517
