@@ -26,7 +26,7 @@ The methods are described in detail in our preprints:
 ### 1. Clone the Repository
 First, clone this repository to your local machine:
 ```bash
-git clone [https://github.com/rl647/SSE_search.git](https://github.com/rl647/SSE_search.git)
+git clone https://github.com/rl647/SSE_search.git
 cd SSE_search
 ```
 
